@@ -24,5 +24,4 @@ AB_OTA_PARTITIONS += \
     uefi \
     uefisecapp \
     xbl \
-    xbl_config \
     xbl_ramdump
