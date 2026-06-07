@@ -27,7 +27,7 @@ $(call add-radio-file-sha1-checked,radio/tz.img,887d33f43ee15c6f77fdff40776a5b64
 $(call add-radio-file-sha1-checked,radio/uefi.img,775fc166e12408de103b3fa0c67220edd3e21f7e)
 $(call add-radio-file-sha1-checked,radio/uefisecapp.img,c09320a61473a8e7da431b59528e91bd8eafcca3)
 $(call add-radio-file-sha1-checked,radio/xbl.img,db97127ffedf8732a95237275eb896954dadd570)
-$(call add-radio-file-sha1-checked,radio/xbl_config.img,9e796a916ff8b5a8f2c8837f1990d7df1d8a6714)
+$(call add-radio-file-sha1-checked,radio/xbl_config.img,58efcf6124d86d0c723848e0c62aac52c1afe8c0)
 $(call add-radio-file-sha1-checked,radio/xbl_ramdump.img,dcbac5fd4b2d18905a978649a36163380575a3eb)
 
 endif
