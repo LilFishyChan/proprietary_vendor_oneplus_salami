@@ -8207,6 +8207,7 @@ cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libCipParameter0",
     owner: "oneplus",
+    check_elf_files: false,
     strip: {
         none: true,
     },
@@ -8255,6 +8256,7 @@ cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libCipParameter2",
     owner: "oneplus",
+    check_elf_files: false,
     strip: {
         none: true,
     },
@@ -8279,6 +8281,7 @@ cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libCipParameter3",
     owner: "oneplus",
+    check_elf_files: false,
     strip: {
         none: true,
     },
